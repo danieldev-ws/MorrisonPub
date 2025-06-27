@@ -178,7 +178,7 @@ body{
 }
 
 .hamburgerC{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     color: #F8EBDD;
 }
 
@@ -204,8 +204,8 @@ body{
     flex-direction: row;
     color: white;
     justify-content: center;
-    gap: 2rem;
-    margin-left: 3.5rem;
+    gap: 3rem;
+    margin-left: 3rem;
 }
 
 .all{
