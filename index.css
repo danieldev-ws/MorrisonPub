@@ -79,6 +79,10 @@ body{
     gap: 5px;   
 }
 
+.fritti{
+    margin-right: 1.3rem;
+}
+
 .tl{
     display: flex;
     flex-direction: row;
@@ -178,7 +182,7 @@ body{
 }
 
 .hamburgerC{
-    font-size: 0.5rem;
+    font-size: 0.8rem;
     color: #F8EBDD;
 }
 
