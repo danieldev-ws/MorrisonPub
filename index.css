@@ -1,5 +1,6 @@
 body{
-    background-color: #0A0E1A;
+    /* background-color: #0A0E1A; */
+    background-color: black;
     height: 95vh;
     overflow-x: hidden;
 }
@@ -239,4 +240,13 @@ body{
     gap: 0.5rem;
 }
 
-
+.postilla{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Inter', serif;
+    font-size: 0.8rem;
+    margin-top: -2rem;
+}
